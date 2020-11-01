@@ -1,0 +1,85 @@
+[
+{
+    "id": 1,
+    "Marca": "Honda",
+    "Pais": "Japon",
+    "Tipo": "Sedan",
+     "Modelo": "Civic 5p"
+},
+{
+    "id": 2,
+    "Marca": "Audi",
+    "Pais": "Alemania",
+    "Tipo": "Sedan",
+     "Modelo": "A4"
+},
+{
+    "id": 3,
+    "Marca": "Bentley",
+    "Pais": "Reino Unido",
+    "Tipo": "Coupe",
+     "Modelo": "GT"
+},
+{
+    "id": 4,
+    "Marca": "Bmw",
+    "Pais": "Alemania",
+    "Tipo": "Berlina",
+     "Modelo": "Serie 3 Gran Turismo"
+},{
+    "id": 5,
+    "Marca": "Bmw",
+    "Pais": "Alemania",
+    "Tipo": "Camioneta",
+     "Modelo": "X3 M40i"
+},
+{
+    "id": 6,
+    "Marca": "Chevrolet",
+    "Pais": "Estados Unidos",
+    "Tipo": "Cabrio",
+     "Modelo": "Camaro"
+},
+{
+    "id": 7,
+    "Marca": "Ferrari",
+    "Pais": "Italia",
+    "Tipo": "Cabrio",
+     "Modelo": "812"
+},
+{
+    "id": 8,
+    "Marca": "Ford",
+    "Pais": "Estados Unidos",
+    "Tipo": "Covertible",
+     "Modelo": "Mustang 2.3"
+},
+{
+    "id": 9,
+    "Marca": "Hyundai",
+    "Pais": "Corea del Sur",
+    "Tipo": "Sedan",
+     "Modelo": "Genesis"
+},
+{
+    "id": 10,
+    "Marca": "Jaguar",
+    "Pais": "Reino Unido",
+    "Tipo": "Sedan",
+     "Modelo": "XJ 3.0"
+},
+{
+    "id": 11,
+    "Marca": "Jeep",
+    "Pais": "Estados Unidos",
+    "Tipo": "Camioneta",
+     "Modelo": "Cherokee 3.2 4X4"
+},
+{
+    "id": 12,
+    "Marca": "Lamborghini",
+    "Pais": "Italia",
+    "Tipo": "Cabrio",
+     "Modelo": "Huracan"
+}
+]
